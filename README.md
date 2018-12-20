@@ -1,9 +1,9 @@
 ## 项目简介
 
-基于 vue.js 的前端开发环境，用于前后端分离后的单页应用开发，可以在开发时使用 ES Next、scss 等最新语言特性。项目包含：
+基于 vue.js 的前端开发环境，用于前后端分离后的单页应用开发，可以在开发时使用 typescript、ES Next、scss 等最新语言特性。项目包含：
 
 - 基础库: `vue.js`、`vue-router`、`vuex`、`whatwg-fetch`
-- 编译/打包工具：`webpack`、`babel`、`node-sass`
+- 编译/打包工具：`webpack`、`babel`、`node-sass`、`typescript`
 - 单元测试工具：`karma`、`mocha`、`sinon-chai`
 - 本地服务器：`express`
 
@@ -62,8 +62,8 @@
 
 ## 快速开始
 
-    git clone https://github.com/hanan198501/vue-spa-template.git 
-    cd vue-spa-template
+    git clone https://github.com/myvas/vue-ts-spa-template.git 
+    cd vue-ts-spa-template
     cnpm install
     npm run dev
 
@@ -155,3 +155,4 @@
 - scss 文档：[http://sass-lang.com/documentation/file.SASS_REFERENCE.html](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 - mocha 文档: [http://mochajs.org/](http://mochajs.org/)
 - express 中文官网：[http://expressjs.com/zh-cn/](http://expressjs.com/zh-cn/) 
+- typescript 官网：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
